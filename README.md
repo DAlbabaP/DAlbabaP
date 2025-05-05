@@ -12,13 +12,6 @@
 - Go
 - SQL
 
-## 🔭 Current Project
-Currently developing Deadlock Mod Installer - a tool to automate mod installation for Deadlock game.
-
-### Key Features:
-- 📥 Automatic mod downloads from Google Drive repository
-- 📂 Proper file installation into game directory
-- 🔄 Mod management system
 
 Planning to expand functionality and improve user experience in future updates.
 

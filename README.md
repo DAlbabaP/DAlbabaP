@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 - 🎓 Student at Timiryazev Academy
-- 🌱 19 years old
+- 🌱 20 years old
 - 💻 Enthusiast Developer
 - 🎬 Movie and TV Series Fan
 - 🎪 Working in the Event Industry
